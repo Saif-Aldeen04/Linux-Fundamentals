@@ -1,4 +1,4 @@
-# 🐧 Linux Fundamentals – Beginner to Solid Foundation  
+# 🐧 Linux Fundamentals
 
 A structured Linux learning project focused on building strong command-line and system fundamentals.
 
