@@ -20,7 +20,8 @@ The focus is on understanding how Linux works internally — not just memorizing
 
 ## 🧠 Topics Covered  
 
-- [Core Commands of Debian Linux](core-commands.md)  
+- [Core Commands of Debian Linux](core-commands.md)
+- [Special Characters](special-characters.md)
 - [Redirection & Piping](redirection-and-piping.md)  
 - [Environment Variables](environment-variables.md)  
 - [User Management](user-management.md)  
@@ -59,7 +60,8 @@ This project demonstrates my ability to:
 linux-fundamentals/
 │
 ├── README.md
-├── core-commands.md
+├── core-commands.md ── built-in-commands.md
+├── special-characters.md
 ├── redirection-and-piping.md
 ├── environment-variables.md
 ├── user-management.md
