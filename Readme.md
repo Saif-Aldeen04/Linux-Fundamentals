@@ -69,7 +69,13 @@ linux-fundamentals/
 ├── boot-process.md
 ├── services-and-file-system.md
 ├── file-permission.md
-└── installing-software.md
+├── installing-software.md
+└── assets
+    ├── file-permission.png
+    ├── file-system.png
+    ├── grup-gui.png
+    ├── piping-diagram.png
+    └── redirection-diagram.png
 ```
 
 
