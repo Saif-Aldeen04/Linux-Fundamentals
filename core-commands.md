@@ -13,7 +13,7 @@ You can combine options like this:
 > [!info]  
 > Command -OptionOption
 
-You can get help and see available options by writing `--help` after most commands:
+You can get help and see available options by writing `--help` after most comds:
 
 > [!info]  
 > Command --help
