@@ -3,19 +3,19 @@ Before using commands, you should understand the concept of **options** in the s
 
 Options are written like this:
 
-> [!info]  
+> [!IMPORTANT]  
 > Command -Option
 
 An option gives you more control or more information about the command.
 
 You can combine options like this:
 
-> [!info]  
+> [!IMPORTANT]  
 > Command -OptionOption
 
 You can get help and see available options by writing `--help` after most comds:
 
-> [!info]  
+> [!IMPORTANT]  
 > Command --help
 
 ---
@@ -101,7 +101,7 @@ Example:
 To read about `man` itself:  
 `man man`
 
-> [!NOTE]
+> [!IMPORTANT]
 > Some commands are built-in commands, so `man` may not show full help for them.
 
 [Built-in Commands](built-in-commands.md)
