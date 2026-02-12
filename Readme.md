@@ -55,7 +55,21 @@ This project demonstrates my ability to:
 
 ## 📂 Repository Structure  
 
-<pre> ```bash linux-fundamentals/ │ ├── README.md ├── core-commands.md ├── redirection-and-piping.md ├── environment-variables.md ├── user-management.md ├── su-and-sudo.md ├── boot-process.md ├── services-and-file-system.md ├── file-permission.md └── installing-software.md ``` </pre>
+```bash
+linux-fundamentals/
+│
+├── README.md
+├── core-commands.md
+├── redirection-and-piping.md
+├── environment-variables.md
+├── user-management.md
+├── su-and-sudo.md
+├── boot-process.md
+├── services-and-file-system.md
+├── file-permission.md
+└── installing-software.md
+```
+
 
 
 ---
