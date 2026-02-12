@@ -1,64 +1,60 @@
-🐧 Linux Fundamentals – Beginner to Solid Foundation
+# 🐧 Linux Fundamentals – Beginner to Solid Foundation  
 
 A structured Linux learning project focused on building strong command-line and system fundamentals.
 
-📖 About This Repository
+---
+
+## 📖 About This Repository  
 
 This repository contains my structured and simplified notes while studying Linux fundamentals.
 
 It is designed for:
 
-Beginners who want a clear and practical Linux learning path
-
-Students building strong command-line skills
-
-Anyone preparing for system administration or cybersecurity
+- Beginners who want a clear and practical Linux learning path  
+- Students building strong command-line skills  
+- Anyone preparing for system administration or cybersecurity  
 
 The focus is on understanding how Linux works internally — not just memorizing commands.
 
-🧠 Topics Covered
+---
 
-Core Commands of Debian Linux
+## 🧠 Topics Covered  
 
-Redirection & Piping
-
-Environment Variables
-
-User Management
-
-SU and Sudo
-
-Boot Process
-
-Services & File System
-
-File Permission
-
-Installing Software
+- [Core Commands of Debian Linux](core-commands.md)  
+- [Redirection & Piping](redirection-and-piping.md)  
+- [Environment Variables](environment-variables.md)  
+- [User Management](user-management.md)  
+- [SU and Sudo](su-and-sudo.md)  
+- [Boot Process](boot-process.md)  
+- [Services & File System](services-and-file-system.md)  
+- [File Permission](file-permission.md)  
+- [Installing Software](installing-software.md)  
 
 Each topic is written in a clear, structured, and beginner-friendly format.
 
-🎯 Project Goals
+---
+
+## 🎯 Project Goals  
 
 This project demonstrates my ability to:
 
-Understand Linux system architecture
+- Understand Linux system architecture  
+- Work confidently in the terminal  
+- Manage users, permissions, and services  
+- Understand how Linux boots and operates internally  
+- Document technical knowledge in a structured way  
 
-Work confidently in the terminal
+---
 
-Manage users, permissions, and services
+## 🛠 Environment  
 
-Understand how Linux boots and operates internally
+- Debian-based Linux  
+- Zsh shell  
 
-Document technical knowledge in a structured way
+---
 
-🛠 Environment
+## 📂 Repository Structure  
 
-Debian-based Linux
-
-Zsh shell
-
-📂 Repository Structure
 linux-fundamentals/
 │
 ├── README.md
@@ -72,26 +68,26 @@ linux-fundamentals/
 ├── file-permission.md
 └── installing-software.md
 
-🚀 Why This Project Matters
+
+---
+
+## 🚀 Why This Project Matters  
 
 This repository reflects:
 
-Consistent and structured learning
-
-Strong Linux fundamentals
-
-Practical command-line proficiency
-
-Readiness for advanced system administration and cybersecurity topics
+- Consistent and structured learning  
+- Strong Linux fundamentals  
+- Practical command-line proficiency  
+- Readiness for advanced system administration and cybersecurity topics  
 
 It also serves as:
 
-A beginner-friendly reference
+- A beginner-friendly reference  
+- A personal knowledge base  
+- A demonstration of technical documentation skills  
 
-A personal knowledge base
+---
 
-A demonstration of technical documentation skills
+## 👨‍💻 Author  
 
-👨‍💻 Author
-
-Seif Eldeen Wael
+**Seif Eldeen Wael**
