@@ -169,7 +169,7 @@ Replace `X` with the desired run level number.
 
 ---
 
-> [!CATTON]  
+> [!CAUTION]  
 > Do NOT set run level to 0 or 6 as default.
 > 
 > 0 → System will shut down after boot.  
