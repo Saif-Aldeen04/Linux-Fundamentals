@@ -55,7 +55,7 @@ This project demonstrates my ability to:
 
 ## 📂 Repository Structure  
 
-linux-fundamentals/
+linux-fundamentals
 │
 ├── README.md
 ├── core-commands.md
