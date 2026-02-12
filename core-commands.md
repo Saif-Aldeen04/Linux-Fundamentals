@@ -101,10 +101,10 @@ Example:
 To read about `man` itself:  
 `man man`
 
-> [!info]  
+> [!NOTE]
 > Some commands are built-in commands, so `man` may not show full help for them.
 
-[[Built-in Commands]]
+[Built-in Commands](built-in-commands.md)
 
 ---
 
